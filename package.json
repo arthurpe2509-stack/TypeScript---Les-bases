@@ -1,0 +1,29 @@
+{
+  "name": "typescript---les-bases",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "homepage": "https://github.com/arthurpe2509-stack/TypeScript---Les-bases#readme",
+  "bugs": {
+    "url": "https://github.com/arthurpe2509-stack/TypeScript---Les-bases/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arthurpe2509-stack/TypeScript---Les-bases.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node dist/Main.js",
+    "build": "tsc"
+  },
+  "dependencies": {
+    "undici-types": "^7.19.2"
+  },
+  "devDependencies": {
+    "@types/node": "^25.6.0",
+    "typescript": "^6.0.3"
+  }
+}
